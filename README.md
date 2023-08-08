@@ -1,4 +1,4 @@
-# My GitHub Website
+# Pranav Subbarayan
 
 Welcome to my GitHub website! This is a place where I share my projects, ideas, and thoughts.
 
