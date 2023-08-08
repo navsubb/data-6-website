@@ -19,7 +19,7 @@ Explore the intricate details of the Carina Nebula taken by the James Webb Teles
 
 ## Favorite Movie Scene: The Wormhole from Interstellar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/69EUgdj7lzI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/69EUgdj7lzI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Credits
