@@ -7,6 +7,7 @@ Welcome to my GitHub website! This is a place where I share my projects, ideas, 
 I am a passionate developer interested in [technology](https://example.com/), [coding](https://example.com/), and [open source](https://example.com/). In my free time, I enjoy [hiking](https://example.com/), [photography](https://example.com/), and [reading](https://example.com/).
 
 ## Projects
+ <img src="./james-webb.jpg" style="width:50%; margin:auto; display:block">
 
 ## Blog
 ---
