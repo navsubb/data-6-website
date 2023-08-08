@@ -10,7 +10,7 @@ I'm Pranav Subbarayan an enthusiastic astrophotographer with a deep love for the
 
 ### Image 1: The Milky Way
 
-Gaze upon the stunning Milky Way galaxy as it arcs across the night sky. This image was taken during a remote stargazing session. (<img src="./milky-way.jpg">)
+Gaze upon the stunning Milky Way galaxy as it arcs across the night sky. This image was taken during a remote stargazing session. (<img src="milky_way.jpg">)
 
 ### Image 2: Carina Nebula
 
