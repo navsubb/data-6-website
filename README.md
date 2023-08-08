@@ -17,11 +17,9 @@ Gaze upon the stunning Milky Way galaxy as it arcs across the night sky. This im
 Explore the intricate details of the Carina Nebula taken by the James Webb Telescope. (<img src="./james-webb.jpg" style="width:50%; margin:auto; display:block">)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/69EUgdj7lzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-
 ## Favorite Movie Scene: The Wormhole from Interstellar
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/69EUgdj7lzI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Credits
