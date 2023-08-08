@@ -11,4 +11,4 @@ I am a passionate developer interested in [technology](https://example.com/), [c
 ## Blog
 ---
 
-© 2023 My GitHub Website | Designed with ❤️
+© 2023 My GitHub Website
